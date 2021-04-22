@@ -1,0 +1,2 @@
+This code was written while I was a federal employee at NASA/GSFC.
+As a result, it is public domain.
